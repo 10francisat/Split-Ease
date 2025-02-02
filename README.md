@@ -5,6 +5,7 @@ Team Member:
 2. Annada S - Government Model Engineering College
 
 ## HOSTED PROJECT LINK
+http://192.168.7.108:8502
 
 ## PROJECT DESCRIPTION
 Splitwise is a bill-splitting and expense-sharing app that helps groups of people track shared expenses and settle debts easily. It is commonly used by friends, roommates, travel groups, and couples to keep track of who paid for what and who owes whom.
@@ -76,7 +77,7 @@ For Software:
 ## RUN
 streamlit run Split-Ease.py
 
-##PROJECT DOCUMENTATION
+## PROJECT DOCUMENTATION
 
 SplitEase is a website designed to simplify managing and splitting expenses among friends, family, or groups. It helps users track shared costs, calculate balances, and settle up payments, making group spending transparent and easy.
 
@@ -95,8 +96,26 @@ Features:
 
 ## SCREENSHOTS
 
+<img width="959" alt="Login" src="https://github.com/user-attachments/assets/ac0a3934-cdde-4955-897e-b388d8e102c4" />
+Landing/Login Page
 
+<img width="957" alt="Register" src="https://github.com/user-attachments/assets/44b71a48-2ee7-4e4d-bdbe-1dae45a81ecf" />
+Register Page
 
+<img width="953" alt="Add Expense" src="https://github.com/user-attachments/assets/f9e4b015-f371-431a-89b7-2385f7ae07ea" />
+Add Expense Page
 
+<img width="959" alt="Create a group" src="https://github.com/user-attachments/assets/0f91e1ea-d9fd-470c-ab5e-03cb021306d5" />
+Create Group
+
+<img width="959" alt="Add a group expense" src="https://github.com/user-attachments/assets/71d49404-7b92-4ae7-8e29-e4e2b1842f11" />
+Add a group expense
+
+## DIAGRAMS
+![Flowchart](https://github.com/user-attachments/assets/ad692bd2-3345-4aff-a542-3448139708e0)
+
+## VIDEO DEMO
+
+https://github.com/user-attachments/assets/c7a0e6ac-0d61-4bf8-b1c8-09eadd3cf2b1
 
 
