@@ -84,14 +84,14 @@ Purpose:
 To provide a platform where users can efficiently split and track shared expenses.
 
 Features:
->Create Groups: Users can create groups (e.g., family, roommates, friends) to manage shared expenses.
->Add Expenses: Users can add expenses with details like amount, date, description, and the people involved.
->Split Expenses: The app allows for automatic or manual splitting of expenses across group members.
->Track Balances: The app calculates who owes what and who is owed.
->Settle Debts: It provides users with options to pay or settle their debts easily.
->Notifications: Notify users when expenses are added or when balances change.
->Currency Support: Supports multiple currencies for international use.
->Reports: Provides expense reports to see spending patterns.
+1.Create Groups: Users can create groups (e.g., family, roommates, friends) to manage shared expenses.
+2.Add Expenses: Users can add expenses with details like amount, date, description, and the people involved.
+3.Split Expenses: The app allows for automatic or manual splitting of expenses across group members.
+4.Track Balances: The app calculates who owes what and who is owed.
+5.Settle Debts: It provides users with options to pay or settle their debts easily.
+6.Notifications: Notify users when expenses are added or when balances change.
+7.Currency Support: Supports multiple currencies for international use.
+8.Reports: Provides expense reports to see spending patterns.
 
 SCREENSHOTS
 
