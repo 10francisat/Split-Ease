@@ -4,20 +4,20 @@ Team Member:
 1. Francisa Thankachan - Government Model Engineering College
 2. Annada S - Government Model Engineering College
 
-##HOSTED PROJECT LINK
+## HOSTED PROJECT LINK
 
-##PROJECT DESCRIPTION
+## PROJECT DESCRIPTION
 Splitwise is a bill-splitting and expense-sharing app that helps groups of people track shared expenses and settle debts easily. It is commonly used by friends, roommates, travel groups, and couples to keep track of who paid for what and who owes whom.
 
-##THE PROBLEM STATEMENT
+## THE PROBLEM STATEMENT
 How can we simplify and organize the process of splitting expenses and managing shared finances among groups of people?
 
-##THE SOLUTION
+## THE SOLUTION
 Develop a website that simplifies and organizes shared expense management.
 
 SplitEase is a bill-splitting website that helps groups manage shared expenses easily. Users can add expenses, specify participants, and track who owes whom. It calculates individual shares and maintains transparent records, eliminating manual calculations. The app simplifies debt settlements by minimizing transactions, ensuring fair and efficient repayments. Features like expense reminders and custom splits make it versatile for situations like trips, dinners, or rent sharing. It enhances transparency, reduces social discomfort in money matters, and keeps relationships smooth by ensuring fairness. It's a practical tool for friends, roommates, or any group sharing costs.
 
-##TECHNICAL
+## TECHNICAL
 Technologies/Components Used
 
 For Software:
@@ -50,7 +50,7 @@ Storage: At least 10GB free space (for database and logs)
 XAMPP / MySQL Workbench → For managing MySQL database
 Git & GitHub → For version control
 
-##Implementation
+## Implementation
 For Software:
 
 1.Database Setup (MySQL)
@@ -73,7 +73,7 @@ For Software:
 >Verify user login & group settlements
 >Ensure database connections are secure
 
-##RUN
+## RUN
 streamlit run Split-Ease.py
 
 ##PROJECT DOCUMENTATION
@@ -93,7 +93,7 @@ Features:
 7.Currency Support: Supports multiple currencies for international use.
 8.Reports: Provides expense reports to see spending patterns.
 
-SCREENSHOTS
+## SCREENSHOTS
 
 
 
