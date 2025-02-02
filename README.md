@@ -6,7 +6,7 @@ Team Member:
 
 ## HOSTED PROJECT LINK
 http://192.168.7.108:8502
-
+https://split-ease-1sue.onrender.com
 ## PROJECT DESCRIPTION
 Splitwise is a bill-splitting and expense-sharing app that helps groups of people track shared expenses and settle debts easily. It is commonly used by friends, roommates, travel groups, and couples to keep track of who paid for what and who owes whom.
 
